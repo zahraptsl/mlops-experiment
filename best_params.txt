@@ -1,0 +1,2 @@
+Best validation accuracy: 0.898667
+Best parameters: {'learning_rate': 0.003602704977876853, 'batch_size': 64, 'dropout': 0.16527205998539315}
